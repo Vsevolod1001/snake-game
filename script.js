@@ -79,7 +79,7 @@ let input = document.createElement("input");
 document.body.appendChild(input);
 input.style.cssText = `
 margin: auto;
-margin-top: 40px;
+margin-top: 5px;
 font-size: 20px;
 display: block`;
 
